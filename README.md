@@ -1,6 +1,6 @@
 ### Olá, sou o Marcos prazer em te conhecer! 😊
 
-### Sociais ↧
+### Me encontre aqui! ↧
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-silva-68b203158/)
 
 
